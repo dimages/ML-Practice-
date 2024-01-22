@@ -8,7 +8,11 @@
 
 3. `myenv\Scripts\Activate`
 
-## **Устанавливаем библиотеки `pip install -r requirements.txt`**
+## **Устанавливаем библиотеки**
 
-## **Запускаем проект `uvicorn main:app --reload`**
+`pip install -r requirements.txt`
+
+## **Запускаем проект**
+
+`uvicorn main:app --reload`
 
