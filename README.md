@@ -1,6 +1,6 @@
 # Флоу запуска проекта
 
-**Скачиваем и запускаем виртуальное окружение:**
+## **Скачиваем и запускаем виртуальное окружение**
 
 1. `pip install virtualenv`
 
@@ -8,7 +8,7 @@
 
 3. `myenv\Scripts\Activate`
 
-**Устанавливаем библиотеки `pip install -r requirements.txt`**
+## **Устанавливаем библиотеки `pip install -r requirements.txt`**
 
-**Запускаем проект `uvicorn main:app --reload`**
+## **Запускаем проект `uvicorn main:app --reload`**
 
